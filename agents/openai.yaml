@@ -1,0 +1,4 @@
+interface:
+  display_name: "目标导向学习"
+  short_description: "先明确学习目标与基础，再通过小步讲解、练习反馈和延迟复测掌握新知识。"
+  default_prompt: "使用 $learn-with-goals 带我学习一个主题：先明确能完成的任务，诊断我的基础，再通过讲解、练习和反馈一步步带我学会。"
